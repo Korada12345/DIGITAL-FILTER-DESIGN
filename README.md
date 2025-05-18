@@ -16,3 +16,4 @@ The objective of this project was to design, simulate, and verify a basic Digita
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/4c183eec-68f8-4f35-bcfd-3dc6f9338154)
